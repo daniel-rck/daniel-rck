@@ -11,7 +11,7 @@
 
 - 🧩 [nuget-workbench-vscode](https://github.com/nuget-workbench/nuget-workbench-vscode) — NuGet package manager for VS Code with vulnerability scanning
 
-### 📱 PWA Apps
+### 📱 Everyday Apps
 
 - 🏠 [Hausverwaltung](https://github.com/daniel-rck/Hausverwaltung) — web app for private landlords managing small multi-unit properties
 - 🎾 [Tennisturnier](https://github.com/daniel-rck/Tennisturnier) — browser-based web app for small tennis tournaments
