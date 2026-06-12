@@ -20,3 +20,4 @@
 - 🔔 [ErinnerMich](https://github.com/daniel-rck/ErinnerMich) — browser PWA, for recurring reminders and habit tracking
 - ⏱️ [Zeiterfassung](https://github.com/daniel-rck/Zeiterfassung) — browser PWA, for personal work-time tracking
 - 🕹️ [Minispiele](https://github.com/daniel-rck/Minispiele) —  browser PWA, small games collection (currently WIP)
+- ⛽ [Tankzettel](https://github.com/daniel-rck/Tankzettel) — browser PWA, for capturing and analyzing fuel receipts
