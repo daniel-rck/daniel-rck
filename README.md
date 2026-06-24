@@ -13,12 +13,12 @@
 
 - 🧩 [nuget-workbench-vscode](https://github.com/nuget-workbench/nuget-workbench-vscode) — NuGet package manager for VS Code with vulnerability scanning
 
-### 📱 Everyday Apps
+### 📱 Everyday Apps (PWAs)
 
-- 🏠 [Hausverwaltung](https://github.com/daniel-rck/Hausverwaltung) — browser PWA, for private landlords managing small multi-unit properties
-- 🎾 [Tennisturnier](https://github.com/daniel-rck/Tennisturnier) — browser PWA, for small tennis tournaments
-- 🔔 [ErinnerMich](https://github.com/daniel-rck/ErinnerMich) — browser PWA, for recurring reminders and habit tracking
-- ⏱️ [Zeiterfassung](https://github.com/daniel-rck/Zeiterfassung) — browser PWA, for personal work-time tracking
-- 🕹️ [Minispiele](https://github.com/daniel-rck/Minispiele) —  browser PWA, small games collection
-- ⛽ [Tankzettel](https://github.com/daniel-rck/Tankzettel) — browser PWA, for capturing and analyzing fuel receipts
-- 🍕 [Pizzateig](https://github.com/daniel-rck/Pizzateig) — browser PWA, pizza dough calculator with smart scaling and local recipe sharing
+- 🏠 [Hausverwaltung](https://github.com/daniel-rck/Hausverwaltung) — for private landlords managing small multi-unit properties
+- 🎾 [Tennisturnier](https://github.com/daniel-rck/Tennisturnier) — for small tennis tournaments
+- 🔔 [ErinnerMich](https://github.com/daniel-rck/ErinnerMich) — for recurring reminders and habit tracking
+- ⏱️ [Zeiterfassung](https://github.com/daniel-rck/Zeiterfassung) — for personal work-time tracking
+- 🕹️ [Minispiele](https://github.com/daniel-rck/Minispiele) — small games collection
+- ⛽ [Tankzettel](https://github.com/daniel-rck/Tankzettel) — for capturing and analyzing fuel receipts
+- 🍕 [Pizzateig](https://github.com/daniel-rck/Pizzateig) — pizza dough calculator with smart scaling and local recipe sharing
