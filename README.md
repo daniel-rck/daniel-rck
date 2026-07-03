@@ -12,8 +12,8 @@
 ### 🧩 IT Tools
 
 - 🧩 [nuget-workbench-vscode](https://github.com/nuget-workbench/nuget-workbench-vscode) — NuGet package manager for VS Code with vulnerability scanning
-- 📐 [Vectorizer](https://github.com/daniel-rck/Vectorizer) - Convert raster images to vector format (SVG)
-- 🔣 [Codes](https://github.com/daniel-rck/Codes) - Scan and create Barcodes an QR codes
+- 📐 [Vectorizer](https://github.com/daniel-rck/Vectorizer) — Convert raster images to vector format (SVG)
+- 🔣 [Codes](https://github.com/daniel-rck/Codes) — Scan and create Barcodes an QR codes
   
 ### 📱 Everyday Apps (PWAs)
 
