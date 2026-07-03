@@ -9,7 +9,7 @@
 - ⬇️ [amigo-downloader](https://github.com/amigo-labs/amigo-downloader) — cross-platform download manager (Rust + Tauri)
 - 📦 [amigo-native](https://github.com/amigo-labs/amigo-native) — Rust-powered native Node.js packages (+ wasm for browser)
   
-### 🧩 IT Tools
+### 🧩 Developer Tools
 
 - 🧩 [nuget-workbench-vscode](https://github.com/nuget-workbench/nuget-workbench-vscode) — NuGet package manager for VS Code with vulnerability scanning
 - 📐 [Vectorizer](https://github.com/daniel-rck/Vectorizer) — Convert raster images to vector format (SVG)
