@@ -1,4 +1,3 @@
 ## Hi, I'm Daniel 👋
 
-**→ [daniel-rck.github.io](https://daniel-rck.github.io)**
-
+**See my projects here: [daniel-rck.github.io](https://daniel-rck.github.io)**
